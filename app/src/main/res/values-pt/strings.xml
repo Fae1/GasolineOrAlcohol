@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gasolina ou Álcool</string>
+    <string name="label_price_alcohol">Preço Álcool</string>
+    <string name="label_price_gasoline">Preço Gasolina</string>
+    <string name="button_verify">Verificar</string>
+</resources>
